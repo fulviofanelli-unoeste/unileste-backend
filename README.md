@@ -63,7 +63,7 @@ A implementação utiliza o conceito de transações para garantir a consistênc
 
 ## 📚 Documentação
 
-Todos os endpoints estão documentados com:
+Todos os endpoints devem estar documentados com:
 - Tag
 - Sumário
 - Corpo da requisição (quando aplicável)
