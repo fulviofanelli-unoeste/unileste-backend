@@ -1,0 +1,18 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "API - Unileste",
+    "description": "API utilizada para o serviços digitais da universidade",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:5000/"
+    }
+  ],
+  "paths": {},
+  "components": {
+    "securitySchemes": {},
+    "schemas": {}
+  }
+}
