@@ -14,7 +14,7 @@ A API oferece os seguintes endpoints:
 
 - **Cursos**: Retorna todos os cursos cadastrados no banco de dados
 - **Matrícula**: Permite realizar a matrícula de um novo aluno
-  - Gera automaticamente as mensalidades do semestre (a partir de 07/2024)
+  - Gera automaticamente as mensalidades do semestre (a partir de 01/2025)
   - Gera um RA e senha para acesso do aluno
 - **Autenticação**: Gera token JWT para acesso aos endpoints restritos
 
@@ -55,7 +55,7 @@ A autenticação é realizada via RA e senha gerados durante o processo de matr�
 
 ### Processamento de Mensalidades
 
-O sistema gera automaticamente as mensalidades do semestre durante o processo de matrícula, com início em 07/2024.
+O sistema gera automaticamente as mensalidades do semestre durante o processo de matrícula, com início em 01/2025.
 
 ## ⚙️ Implementação
 
