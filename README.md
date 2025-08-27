@@ -33,6 +33,7 @@ A API deve implementar os seguintes endpoints:
 
 Todos os endpoints deverão seguir o padrão REST utilizando o método HTTP correto, nomenclatura padrão das rotas e definição correta de códigos de retorno. 
 Para os endpoint POST e PUT o corpo da requisição deverá ter o seguinte formato
+
 Curso:
 ``` 
 {
