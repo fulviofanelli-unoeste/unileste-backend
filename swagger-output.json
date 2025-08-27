@@ -10,9 +10,5 @@
       "url": "http://localhost:5000/"
     }
   ],
-  "paths": {},
-  "components": {
-    "securitySchemes": {},
-    "schemas": {}
-  }
+  "paths": {}
 }

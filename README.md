@@ -46,18 +46,18 @@ Curso:
 Matrícula:
 ```
 {
-  	"id": 0
-    "nome": "Fulano de Tal"
-    "email": "fulano@unoeste.br",
-	  "cep": "1900-000",
-    "endereco": "Rua dos bobos, Número 0",
-    "bairro": "Bairro Teste",
-    "cidade": "Presidente Prudente",
-    "uf": "SP",
-    "cursando": "S",
-    "curso": {
-      id: 1
-    }
+  "id": 0
+  "nome": "Fulano de Tal"
+  "email": "fulano@unoeste.br",
+  "cep": "1900-000",
+  "endereco": "Rua dos bobos, Número 0",
+  "bairro": "Bairro Teste",
+  "cidade": "Presidente Prudente",
+  "uf": "SP",
+  "cursando": "S",
+  "curso": {
+    id: 1
+  }
 }
 ```
 
