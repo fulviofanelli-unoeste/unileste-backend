@@ -17,3 +17,6 @@ app.use('/docs', swaggerUi.serve, swaggerUi.setup(outputJson));
 app.listen(5000, function() {
     console.log("backend em execução");
 })
+
+
+export default app

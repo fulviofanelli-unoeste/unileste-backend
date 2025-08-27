@@ -27,24 +27,3 @@ create table tb_matricula (
     
     constraint fk_matricula_curso foreign key (cur_id) references tb_curso (cur_id)
 );
-
-create table tb_mensalidade (
-	men_id int primary key auto_increment,
-    men_mes int,
-    men_vencimento date,
-    men_valor decimal(10,2),
-    mat_id int,
-    
-    constraint fk_mensalidade_matricula foreign key (mat_id) references tb_matricula (mat_id)
-    
-);
-
-
-create table tb_usuarioaluno (
-	usa_id int primary key auto_increment,
-    usa_ra varchar(100),
-    usa_senha varchar(20),
-    mat_id int,
-    
-    constraint fk_aluno_matricula foreign key (mat_id) references tb_matricula (mat_id)
-)

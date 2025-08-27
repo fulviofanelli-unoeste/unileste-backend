@@ -5,13 +5,7 @@ const doc = {
         title: "API - Unileste",
         description: "API utilizada para o serviços digitais da universidade"
     },
-    host: 'localhost:5000',
-    components: {
-        securitySchemes:{
-        },
-        schemas: {
-        },
-    }
+    host: 'localhost:5000'
 }
 
 const outputJson = "./swagger-output.json";
