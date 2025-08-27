@@ -69,7 +69,8 @@ Todos os endpoints devem estar documentados com:
 - Tag
 - Sumário
 - Corpo da requisição (quando aplicável)
-- Requisitos de autenticação (quando aplicável)
+- Códigos de reposta
+
 
 ## 🏁 Como Iniciar
 
