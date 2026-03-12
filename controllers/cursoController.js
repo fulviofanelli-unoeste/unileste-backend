@@ -1,5 +1,9 @@
 
 
 export default class CursoController {
-    //edição de teste
+    
+
+    async listar(req, res) {
+        
+    }
 }
